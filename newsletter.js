@@ -1,0 +1,1 @@
+!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/53c294ad8cdbdc8752ab01cd5/8dd3a416348de38eb96b5c88f.js");
