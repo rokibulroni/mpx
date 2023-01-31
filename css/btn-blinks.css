@@ -8,7 +8,7 @@ buttonxe {
  
   color: #fff;
   border-radius: 5px;
-  padding: 13px 30px;
+  padding: 7px 30px;
   font-weight: bold;
   background: transparent;
   cursor: pointer;
@@ -46,7 +46,7 @@ blink {
 .btn-11 {
 border: none;
     background: rgb(90 32 255);
-    background: linear-gradient(0deg, #9d6f2f 0%, #7a4c0c 100%);
+    background: linear-gradient(0deg, #4080ff 0%, #0843b4 100%);
     color: #fff;
     overflow: hidden;
 }
